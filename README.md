@@ -1,7 +1,5 @@
-- 👋 Hello, I'm datlighting
-- 🌱 I’m currently learning Python, HTML, CSS
+I'm datlighting. learning HTML, CSS, PHP..
+idk what else to say
 
-<!---
-This is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+======
+@&!%=!?*):!@&!%=!?*):!@&!%=!?*):!@&!%=!?*
